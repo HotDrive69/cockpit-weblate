@@ -22,15 +22,15 @@ msgstr " (partilhado com o SO)"
 
 #: pkg/machines/components/diskAdd.jsx:233
 msgid " Attaching it will make this disk shareable for every VM using it."
-msgstr ""
+msgstr " Conectar fará este disco partilhável com todos os utilizadores."
 
 #: pkg/networkmanager/interfaces.js:2330
 msgid "$0 Active Zone"
-msgstr ""
+msgstr "$0 Zona Activa"
 
 #: pkg/networkmanager/interfaces.js:2330
 msgid "$0 Active Zones"
-msgstr ""
+msgstr "$0 Zonas Activas"
 
 #: pkg/storaged/others-panel.jsx:57
 msgid "$0 Block Device"
@@ -51,12 +51,13 @@ msgstr "$0 Sistema de Ficheiros"
 
 #: pkg/machines/components/create-vm-dialog/pxe-helpers.js:105
 msgid "$0 Network"
-msgstr ""
+msgstr "$0 Rede"
 
 #: pkg/packagekit/history.jsx:100
 msgid "$0 Package"
 msgid_plural "$0 Packages"
-msgstr[0] ""
+msgstr[0] "$0 Pacote"
+msgstr[1] "#0 Pacotes"
 
 #: pkg/systemd/init.js:484 pkg/systemd/service-details.jsx:59
 msgid "$0 Template"
@@ -65,12 +66,12 @@ msgstr "$0 Template"
 #: pkg/docker/containers-view.jsx:614
 msgid "$0 Vulnerability"
 msgid_plural "$0 Vulnerabilities"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 Vulnerabilidade"
+msgstr[1] "$0 Vulnerabilidades"
 
 #: pkg/networkmanager/firewall.jsx:160
 msgid "$0 Zone"
-msgstr ""
+msgstr "$0 Zona"
 
 #: src/base1/test-locale.js:83 src/base1/test-locale.js:84
 #: src/base1/test-locale.js:85 src/base1/test-locale.js:86
@@ -122,11 +123,11 @@ msgstr[1] "$0 discos não existem"
 
 #: pkg/shell/indexes.js:611
 msgid "$0 documentation"
-msgstr ""
+msgstr "$0 documentação"
 
 #: src/ws/login.js:336 src/ws/login.js:695
 msgid "$0 error"
-msgstr ""
+msgstr "$0 erro"
 
 #: src/base1/cockpit.js:2785
 msgid "$0 exited with code $1"
@@ -138,11 +139,11 @@ msgstr "$0 falhou"
 
 #: pkg/storaged/lvol-tabs.jsx:161
 msgid "$0 filesystems can not be made larger."
-msgstr ""
+msgstr "Os $0 Sistemas de Ficheiros não podem ser aumentados."
 
 #: pkg/storaged/lvol-tabs.jsx:158
 msgid "$0 filesystems can not be made smaller."
-msgstr ""
+msgstr "Os $0 Sistemas de Ficheiros não podem ser siminuídos."
 
 #: pkg/storaged/lvol-tabs.jsx:154
 msgid "$0 filesystems can not be resized here."
